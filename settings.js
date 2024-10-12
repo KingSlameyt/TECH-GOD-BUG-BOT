@@ -16,7 +16,7 @@ global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '4917528216499 491783757554 ' 4917683199301 //creator number
+global.ownernumber = '4917528216491' //creator number
 global.ownername = '𝑆𝜯𝑅⁰⁹⁶' //owner name
 global.botname = '𝑆𝜯𝑅⁰⁹⁶ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
