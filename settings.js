@@ -10,15 +10,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "4917528216491"
-global.ownername = "𝑆𝜯𝑅⁰⁹⁶"
+global.ownernomer = "4917528216499"
+global.ownername = "420"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '4917528216491' //creator number
-global.ownername = '𝑆𝜯𝑅⁰⁹⁶' //owner name
-global.botname = '𝑆𝜯𝑅⁰⁹⁶ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '4917528216499' //creator number
+global.ownername = '420' //owner name
+global.botname = '420' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -39,7 +39,7 @@ global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
